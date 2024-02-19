@@ -1,0 +1,6 @@
+import cn.hutool.core.util.ClassLoaderUtil;
+public class FunctionUse3855 {
+public void funcUse() {
+ClassLoaderUtil classloaderutil = new ClassLoaderUtil();
+}
+}
